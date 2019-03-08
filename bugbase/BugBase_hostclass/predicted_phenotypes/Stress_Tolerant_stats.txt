@@ -1,0 +1,425 @@
+
+
+Stress_Tolerant
+Number of samples in each treatment group:
+
+            Actinopteri                Amphibia                    Aves 
+                     10                      22                     468 
+        Aves.flightless         Aves.rareflight         Cephalochordata 
+                     25                       5                       5 
+               Chelonia         Crocodylomorpha            Lepidosauria 
+                     16                       4                      77 
+               Mammalia            Mammalia.bat Mammalia.bat.rareflight 
+                    588                     176                       2 
+        Mammalia.glider          Petromyzontida 
+                      5                      12 
+
+Proportion with phenotype (mean):
+            Actinopteri                Amphibia                    Aves 
+             0.53968717              0.25580174              0.27708498 
+        Aves.flightless         Aves.rareflight         Cephalochordata 
+             0.35012402              0.07435331              0.08732654 
+               Chelonia         Crocodylomorpha            Lepidosauria 
+             0.21986537              0.23477549              0.28943876 
+               Mammalia            Mammalia.bat Mammalia.bat.rareflight 
+             0.07817442              0.60712867              0.49553169 
+        Mammalia.glider          Petromyzontida 
+             0.04958725              0.47663803 
+
+Proportion with phenotype (median):
+            Actinopteri                Amphibia                    Aves 
+            0.586485503             0.118706701             0.102179889 
+        Aves.flightless         Aves.rareflight         Cephalochordata 
+            0.186595626             0.006196507             0.087774072 
+               Chelonia         Crocodylomorpha            Lepidosauria 
+            0.196679155             0.147358719             0.209037521 
+               Mammalia            Mammalia.bat Mammalia.bat.rareflight 
+            0.007335166             0.687885418             0.495531686 
+        Mammalia.glider          Petromyzontida 
+            0.006785756             0.513819064 
+
+Standard deviation:
+            Actinopteri                Amphibia                    Aves 
+             0.25332671              0.28222378              0.32857013 
+        Aves.flightless         Aves.rareflight         Cephalochordata 
+             0.34728292              0.15822087              0.06650715 
+               Chelonia         Crocodylomorpha            Lepidosauria 
+             0.21937797              0.28988991              0.28428597 
+               Mammalia            Mammalia.bat Mammalia.bat.rareflight 
+             0.17537711              0.33935230              0.51335642 
+        Mammalia.glider          Petromyzontida 
+             0.06754893              0.40882972 
+
+Pairwise Mann-Whitney-Wilcoxon Tests were performed.
+Pairwise p-values are:
+                   Actinopteri_vs_Amphibia 
+                                1.7287e-02 
+                       Actinopteri_vs_Aves 
+                                7.7490e-03 
+            Actinopteri_vs_Aves.flightless 
+                                1.5948e-01 
+            Actinopteri_vs_Aves.rareflight 
+                                8.4000e-03 
+            Actinopteri_vs_Cephalochordata 
+                                4.6620e-03 
+                   Actinopteri_vs_Chelonia 
+                                2.8839e-03 
+            Actinopteri_vs_Crocodylomorpha 
+                                7.5924e-02 
+               Actinopteri_vs_Lepidosauria 
+                                1.0801e-02 
+                   Actinopteri_vs_Mammalia 
+                                1.9272e-06 
+               Actinopteri_vs_Mammalia.bat 
+                                3.5399e-01 
+    Actinopteri_vs_Mammalia.bat.rareflight 
+                                9.0909e-01 
+            Actinopteri_vs_Mammalia.glider 
+                                2.6640e-03 
+             Actinopteri_vs_Petromyzontida 
+                                9.2287e-01 
+                          Amphibia_vs_Aves 
+                                8.9741e-01 
+               Amphibia_vs_Aves.flightless 
+                                3.7511e-01 
+               Amphibia_vs_Aves.rareflight 
+                                1.7726e-01 
+               Amphibia_vs_Cephalochordata 
+                                5.9516e-01 
+                      Amphibia_vs_Chelonia 
+                                8.7043e-01 
+               Amphibia_vs_Crocodylomorpha 
+                                9.7156e-01 
+                  Amphibia_vs_Lepidosauria 
+                                3.8798e-01 
+                      Amphibia_vs_Mammalia 
+                                1.5453e-03 
+                  Amphibia_vs_Mammalia.bat 
+                                9.0892e-06 
+       Amphibia_vs_Mammalia.bat.rareflight 
+                                2.7173e-01 
+               Amphibia_vs_Mammalia.glider 
+                                2.4747e-01 
+                Amphibia_vs_Petromyzontida 
+                                5.8303e-02 
+                   Aves_vs_Aves.flightless 
+                                3.6868e-01 
+                   Aves_vs_Aves.rareflight 
+                                7.3683e-02 
+                   Aves_vs_Cephalochordata 
+                                7.5041e-01 
+                          Aves_vs_Chelonia 
+                                9.0140e-01 
+                   Aves_vs_Crocodylomorpha 
+                                9.2651e-01 
+                      Aves_vs_Lepidosauria 
+                                9.8931e-02 
+                          Aves_vs_Mammalia 
+                                2.4166e-29 
+                      Aves_vs_Mammalia.bat 
+                                2.4150e-25 
+           Aves_vs_Mammalia.bat.rareflight 
+                                3.0667e-01 
+                   Aves_vs_Mammalia.glider 
+                                2.0500e-01 
+                    Aves_vs_Petromyzontida 
+                                2.5309e-02 
+        Aves.flightless_vs_Aves.rareflight 
+                                6.5242e-02 
+        Aves.flightless_vs_Cephalochordata 
+                                4.6892e-01 
+               Aves.flightless_vs_Chelonia 
+                                3.9871e-01 
+        Aves.flightless_vs_Crocodylomorpha 
+                                6.3442e-01 
+           Aves.flightless_vs_Lepidosauria 
+                                8.3353e-01 
+               Aves.flightless_vs_Mammalia 
+                                3.9760e-05 
+           Aves.flightless_vs_Mammalia.bat 
+                                2.8908e-04 
+Aves.flightless_vs_Mammalia.bat.rareflight 
+                                5.4671e-01 
+        Aves.flightless_vs_Mammalia.glider 
+                                1.6369e-01 
+         Aves.flightless_vs_Petromyzontida 
+                                1.9973e-01 
+        Aves.rareflight_vs_Cephalochordata 
+                                1.4246e-01 
+               Aves.rareflight_vs_Chelonia 
+                                1.9765e-01 
+        Aves.rareflight_vs_Crocodylomorpha 
+                                3.8322e-01 
+           Aves.rareflight_vs_Lepidosauria 
+                                2.8437e-02 
+               Aves.rareflight_vs_Mammalia 
+                                6.3570e-01 
+           Aves.rareflight_vs_Mammalia.bat 
+                                1.2625e-03 
+Aves.rareflight_vs_Mammalia.bat.rareflight 
+                                1.7137e-01 
+        Aves.rareflight_vs_Mammalia.glider 
+                                6.7517e-01 
+         Aves.rareflight_vs_Petromyzontida 
+                                1.3189e-02 
+               Cephalochordata_vs_Chelonia 
+                                4.3219e-01 
+        Cephalochordata_vs_Crocodylomorpha 
+                                7.3016e-01 
+           Cephalochordata_vs_Lepidosauria 
+                                1.5705e-01 
+               Cephalochordata_vs_Mammalia 
+                                2.3403e-02 
+           Cephalochordata_vs_Mammalia.bat 
+                                2.2791e-03 
+Cephalochordata_vs_Mammalia.bat.rareflight 
+                                1.9048e-01 
+        Cephalochordata_vs_Mammalia.glider 
+                                2.2222e-01 
+         Cephalochordata_vs_Petromyzontida 
+                                8.1771e-02 
+               Chelonia_vs_Crocodylomorpha 
+                                9.2444e-01 
+                  Chelonia_vs_Lepidosauria 
+                                3.6466e-01 
+                      Chelonia_vs_Mammalia 
+                                2.9608e-03 
+                  Chelonia_vs_Mammalia.bat 
+                                2.7146e-05 
+       Chelonia_vs_Mammalia.bat.rareflight 
+                                3.6016e-01 
+               Chelonia_vs_Mammalia.glider 
+                                1.7250e-01 
+                Chelonia_vs_Petromyzontida 
+                                7.3728e-02 
+           Crocodylomorpha_vs_Lepidosauria 
+                                6.0070e-01 
+               Crocodylomorpha_vs_Mammalia 
+                                1.7246e-01 
+           Crocodylomorpha_vs_Mammalia.bat 
+                                3.4383e-02 
+Crocodylomorpha_vs_Mammalia.bat.rareflight 
+                                5.3333e-01 
+        Crocodylomorpha_vs_Mammalia.glider 
+                                5.5556e-01 
+         Crocodylomorpha_vs_Petromyzontida 
+                                3.1648e-01 
+                  Lepidosauria_vs_Mammalia 
+                                3.6309e-17 
+              Lepidosauria_vs_Mammalia.bat 
+                                5.0747e-11 
+   Lepidosauria_vs_Mammalia.bat.rareflight 
+                                4.2597e-01 
+           Lepidosauria_vs_Mammalia.glider 
+                                3.4609e-02 
+            Lepidosauria_vs_Petromyzontida 
+                                1.4105e-01 
+                  Mammalia_vs_Mammalia.bat 
+                                1.7608e-64 
+       Mammalia_vs_Mammalia.bat.rareflight 
+                                3.7546e-02 
+               Mammalia_vs_Mammalia.glider 
+                                5.2175e-01 
+                Mammalia_vs_Petromyzontida 
+                                3.1107e-06 
+   Mammalia.bat_vs_Mammalia.bat.rareflight 
+                                5.5753e-01 
+           Mammalia.bat_vs_Mammalia.glider 
+                                9.5914e-04 
+            Mammalia.bat_vs_Petromyzontida 
+                                2.7643e-01 
+Mammalia.bat.rareflight_vs_Mammalia.glider 
+                                1.9048e-01 
+ Mammalia.bat.rareflight_vs_Petromyzontida 
+                                7.9121e-01 
+         Mammalia.glider_vs_Petromyzontida 
+                                2.6826e-02 
+
+FDR-corrected pairwise p-values are:
+                   Actinopteri_vs_Amphibia 
+                              6.554659e-02 
+                       Actinopteri_vs_Aves 
+                              3.525791e-02 
+            Actinopteri_vs_Aves.flightless 
+                              3.412495e-01 
+            Actinopteri_vs_Aves.rareflight 
+                              3.639984e-02 
+            Actinopteri_vs_Cephalochordata 
+                              2.232855e-02 
+                   Actinopteri_vs_Chelonia 
+                              1.496863e-02 
+            Actinopteri_vs_Crocodylomorpha 
+                              1.919192e-01 
+               Actinopteri_vs_Lepidosauria 
+                              4.467578e-02 
+                   Actinopteri_vs_Mammalia 
+                              2.922879e-05 
+               Actinopteri_vs_Mammalia.bat 
+                              5.411200e-01 
+    Actinopteri_vs_Mammalia.bat.rareflight 
+                              9.368001e-01 
+            Actinopteri_vs_Mammalia.glider 
+                              1.496863e-02 
+             Actinopteri_vs_Petromyzontida 
+                              9.368001e-01 
+                          Amphibia_vs_Aves 
+                              9.368001e-01 
+               Amphibia_vs_Aves.flightless 
+                              5.418278e-01 
+               Amphibia_vs_Aves.rareflight 
+                              3.432112e-01 
+               Amphibia_vs_Cephalochordata 
+                              7.192624e-01 
+                      Amphibia_vs_Chelonia 
+                              9.368001e-01 
+               Amphibia_vs_Crocodylomorpha 
+                              9.715570e-01 
+                  Amphibia_vs_Lepidosauria 
+                              5.431743e-01 
+                      Amphibia_vs_Mammalia 
+                              1.004420e-02 
+                  Amphibia_vs_Mammalia.bat 
+                              1.033898e-04 
+       Amphibia_vs_Mammalia.bat.rareflight 
+                              4.492044e-01 
+               Amphibia_vs_Mammalia.glider 
+                              4.170345e-01 
+                Amphibia_vs_Petromyzontida 
+                              1.657981e-01 
+                   Aves_vs_Aves.flightless 
+                              5.411200e-01 
+                   Aves_vs_Aves.rareflight 
+                              1.916932e-01 
+                   Aves_vs_Cephalochordata 
+                              8.430543e-01 
+                          Aves_vs_Chelonia 
+                              9.368001e-01 
+                   Aves_vs_Crocodylomorpha 
+                              9.368001e-01 
+                      Aves_vs_Lepidosauria 
+                              2.369134e-01 
+                          Aves_vs_Mammalia 
+                              1.099564e-27 
+                      Aves_vs_Mammalia.bat 
+                              7.325523e-24 
+           Aves_vs_Mammalia.bat.rareflight 
+                              4.896030e-01 
+                   Aves_vs_Mammalia.glider 
+                              3.587432e-01 
+                    Aves_vs_Petromyzontida 
+                              8.858081e-02 
+        Aves.flightless_vs_Aves.rareflight 
+                              1.799092e-01 
+        Aves.flightless_vs_Cephalochordata 
+                              6.184296e-01 
+               Aves.flightless_vs_Chelonia 
+                              5.497315e-01 
+        Aves.flightless_vs_Crocodylomorpha 
+                              7.416454e-01 
+           Aves.flightless_vs_Lepidosauria 
+                              9.138674e-01 
+               Aves.flightless_vs_Mammalia 
+                              3.618152e-04 
+           Aves.flightless_vs_Mammalia.bat 
+                              2.391504e-03 
+Aves.flightless_vs_Mammalia.bat.rareflight 
+                              6.856062e-01 
+        Aves.flightless_vs_Mammalia.glider 
+                              3.412495e-01 
+         Aves.flightless_vs_Petromyzontida 
+                              3.563883e-01 
+        Aves.rareflight_vs_Cephalochordata 
+                              3.240890e-01 
+               Aves.rareflight_vs_Chelonia 
+                              3.563883e-01 
+        Aves.rareflight_vs_Crocodylomorpha 
+                              5.431743e-01 
+           Aves.rareflight_vs_Lepidosauria 
+                              9.241961e-02 
+               Aves.rareflight_vs_Mammalia 
+                              7.416454e-01 
+           Aves.rareflight_vs_Mammalia.bat 
+                              8.837550e-03 
+Aves.rareflight_vs_Mammalia.bat.rareflight 
+                              3.412495e-01 
+        Aves.rareflight_vs_Mammalia.glider 
+                              7.777316e-01 
+         Aves.rareflight_vs_Petromyzontida 
+                              5.218080e-02 
+               Cephalochordata_vs_Chelonia 
+                              5.783658e-01 
+        Cephalochordata_vs_Crocodylomorpha 
+                              8.305556e-01 
+           Cephalochordata_vs_Lepidosauria 
+                              3.412495e-01 
+               Cephalochordata_vs_Mammalia 
+                              8.518521e-02 
+           Cephalochordata_vs_Mammalia.bat 
+                              1.382659e-02 
+Cephalochordata_vs_Mammalia.bat.rareflight 
+                              3.537415e-01 
+        Cephalochordata_vs_Mammalia.glider 
+                              3.815514e-01 
+         Cephalochordata_vs_Petromyzontida 
+                              2.011129e-01 
+               Chelonia_vs_Crocodylomorpha 
+                              9.368001e-01 
+                  Chelonia_vs_Lepidosauria 
+                              5.411200e-01 
+                      Chelonia_vs_Mammalia 
+                              1.496863e-02 
+                  Chelonia_vs_Mammalia.bat 
+                              2.744730e-04 
+       Chelonia_vs_Mammalia.bat.rareflight 
+                              5.411200e-01 
+               Chelonia_vs_Mammalia.glider 
+                              3.412495e-01 
+                Chelonia_vs_Petromyzontida 
+                              1.916932e-01 
+           Crocodylomorpha_vs_Lepidosauria 
+                              7.192624e-01 
+               Crocodylomorpha_vs_Mammalia 
+                              3.412495e-01 
+           Crocodylomorpha_vs_Mammalia.bat 
+                              1.049802e-01 
+Crocodylomorpha_vs_Mammalia.bat.rareflight 
+                              6.835681e-01 
+        Crocodylomorpha_vs_Mammalia.glider 
+                              6.856062e-01 
+         Crocodylomorpha_vs_Petromyzontida 
+                              4.965517e-01 
+                  Lepidosauria_vs_Mammalia 
+                              8.260410e-16 
+              Lepidosauria_vs_Mammalia.bat 
+                              9.235876e-10 
+   Lepidosauria_vs_Mammalia.bat.rareflight 
+                              5.783658e-01 
+           Lepidosauria_vs_Mammalia.glider 
+                              1.049802e-01 
+            Lepidosauria_vs_Petromyzontida 
+                              3.240890e-01 
+                  Mammalia_vs_Mammalia.bat 
+                              1.602332e-62 
+       Mammalia_vs_Mammalia.bat.rareflight 
+                              1.102154e-01 
+               Mammalia_vs_Mammalia.glider 
+                              6.782787e-01 
+                Mammalia_vs_Petromyzontida 
+                              4.043945e-05 
+   Mammalia.bat_vs_Mammalia.bat.rareflight 
+                              6.856062e-01 
+           Mammalia.bat_vs_Mammalia.glider 
+                              7.273466e-03 
+            Mammalia.bat_vs_Petromyzontida 
+                              4.492044e-01 
+Mammalia.bat.rareflight_vs_Mammalia.glider 
+                              3.537415e-01 
+ Mammalia.bat.rareflight_vs_Petromyzontida 
+                              8.780488e-01 
+         Mammalia.glider_vs_Petromyzontida 
+                              9.041394e-02 
+
+Kruskal-Wallis Test was performed.
+
+Group p-value is:
+1.075001e-76 

@@ -1,0 +1,96 @@
+DATASET_PIECHART
+SEPARATOR SPACE
+DATASET_LABEL spearman_p
+COLOR #ff0000
+FIELD_COLORS #ff0000
+FIELD_LABELS p-value
+MAXIMUM_SIZE 30
+BORDER_WIDTH 0
+DATA
+node56 0 20 1
+node88 0 20 1
+node102 0 20 1
+node136 0 20 1
+node126 0 30 1
+node142 0 30 1
+node150 0 30 1
+node139 0 10 1
+node311 0 20 1
+node358 0 20 1
+node413 0 10 1
+node436 0 10 1
+node534 0 30 1
+node533 0 30 1
+node639 0 10 1
+node629 0 10 1
+node651 0 10 1
+node780 0 10 1
+node804 0 20 1
+node1029 0 10 1
+node1028 0 30 1
+node1087 0 10 1
+node1130 0 30 1
+node1180 0 10 1
+node1179 0 10 1
+node1320 0 10 1
+node1486 0 20 1
+node1494 0 30 1
+node1493 0 20 1
+node1512 0 10 1
+node1508 0 10 1
+node1460 0 30 1
+node1609 0 30 1
+node1608 0 30 1
+node1597 0 30 1
+node1656 0 20 1
+node1659 0 30 1
+node1653 0 30 1
+node1687 0 30 1
+node1677 0 30 1
+node1541 0 30 1
+node1804 0 20 1
+node1904 0 10 1
+node1903 0 30 1
+node1953 0 10 1
+node1973 0 10 1
+node1981 0 30 1
+node1986 0 20 1
+node1995 0 20 1
+node2007 0 30 1
+node2000 0 20 1
+node1956 0 20 1
+node1912 0 10 1
+node2017 0 10 1
+node2016 0 10 1
+node2015 0 20 1
+node2041 0 30 1
+node2013 0 30 1
+node2048 0 30 1
+node2052 0 30 1
+node2137 0 10 1
+node2235 0 10 1
+node2150 0 30 1
+node2277 0 30 1
+node2147 0 30 1
+node2344 0 10 1
+node2409 0 20 1
+node2403 0 10 1
+node2357 0 20 1
+node2493 0 20 1
+node2488 0 10 1
+node2487 0 30 1
+node2486 0 30 1
+node2556 0 20 1
+node2602 0 30 1
+node2597 0 30 1
+node2595 0 30 1
+node2555 0 30 1
+node2617 0 30 1
+node2616 0 30 1
+node2542 0 30 1
+node2681 0 30 1
+node2680 0 30 1
+node2679 0 30 1
+node2688 0 30 1
+node2678 0 30 1
+node2694 0 30 1
